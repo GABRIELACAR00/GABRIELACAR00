@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/fluency-systems-filled/28/A47DAB/guest-male.png"/> Hey, I'm Gabriël Acar
+# Hey, I'm Gabriël Acar
 
 ### <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/source-code.png"/> ICT Specialist | Network Administrator | Software Engineer
 
@@ -9,7 +9,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/artificial-intelligence.png"/> About Me
+## <img src="https://img.icons8.com/fluency-systems-filled/28/A47DAB/guest-male.png"/> About Me
 
 I'm Gabriël Acar, a 25-year-old ICT specialist with a strong passion for technology, problem-solving, and innovation.
 
