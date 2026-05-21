@@ -8,7 +8,6 @@
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/lightning-bolt.png"/> Strong mix of networking, backend, frontend & software engineering
 
 ---
-
 ## <img src="https://img.icons8.com/fluency-systems-filled/28/A47DAB/guest-male.png"/> About Me
 
 I'm Gabriël Acar, a 25-year-old ICT specialist with a strong passion for technology, problem-solving, and innovation.
