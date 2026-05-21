@@ -92,9 +92,8 @@ into complete digital experiences.
 
 📫 Feel free to connect, collaborate, or reach out!
 
-- LinkedIn: *(add your LinkedIn here)*
-- Portfolio: *(add your portfolio here)*
-- Email: *(add your email here)*
+- LinkedIn: *www.linkedin.com/in/gabriel-acar*
+- Email: *gabriel.acar.00@outlook.com*
 
 ---
 
