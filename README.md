@@ -1,6 +1,6 @@
 # Hey, I'm Gabriël Acar
 
-### <span style="color:#A47DAB;">ICT Specialist | Network Administrator | Software Engineer</span>
+<img src="https://img.shields.io/badge/ICT%20Specialist%20%7C%20Network%20Administrator%20%7C%20Software%20Engineer-A47DAB?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/rocket.png"/> Passionate about building smart, scalable, and user-friendly digital solutions.  
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/graduation-cap.png"/> 4th year HBO-ICT student at Windesheim  
