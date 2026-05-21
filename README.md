@@ -17,13 +17,14 @@ My IT journey started with an MBO Level 4 degree in Network Administration, wher
 
 - ITIL
 - Databases
-- Python
+- PHP
 - Backend technologies
 - Infrastructure & networking
 
 Currently, I'm completing my HBO-ICT degree at Windesheim, where I expanded my expertise into modern software development and front-end engineering.
 
 I enjoy combining:
+
 🎨 Creative design  
 ⚙️ Technical engineering  
 📈 Functional problem solving  
