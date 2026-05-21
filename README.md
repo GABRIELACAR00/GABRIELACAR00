@@ -31,7 +31,6 @@ I enjoy combining:
 into complete digital experiences.
 
 ---
-
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/developer.png"/> Tech Stack
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/code.png"/> Languages & Frameworks
@@ -45,7 +44,6 @@ into complete digital experiences.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/maintenance.png"/> Skills
 
 ✅ Problem-solving & goal-oriented work  
@@ -58,7 +56,6 @@ into complete digital experiences.
 ✅ Positive & enthusiastic collaborator
 
 ---
-
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/language.png"/> Languages
 
 | Language | Level |
@@ -70,7 +67,6 @@ into complete digital experiences.
 | 🇰🇷 Korean | Beginner |
 
 ---
-
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/combo-chart.png"/> GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIELACAR00&show_icons=true&theme=tokyonight)
@@ -78,7 +74,6 @@ into complete digital experiences.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELACAR00&layout=compact&theme=tokyonight)
 
 ---
-
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/goal.png"/> Current Focus
 
 - Improving my software engineering skills
@@ -88,7 +83,6 @@ into complete digital experiences.
 - Learning more about cloud technologies
 
 ---
-
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/handshake.png"/> Let's Connect
 
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/linkedin.png"/> LinkedIn:  
@@ -98,7 +92,6 @@ www.linkedin.com/in/gabriel-acar
 gabriel.acar.00@outlook.com
 
 ---
-
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/light-on.png"/> Fun Fact
 
 I love combining technical precision with creative design to build solutions that are not only functional — but also visually impressive.
