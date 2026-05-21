@@ -1,6 +1,6 @@
 # Hey, I'm Gabriël Acar
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/source-code.png"/> ICT Specialist | Network Administrator | Software Engineer
+### <span style="color:#A47DAB;">ICT Specialist | Network Administrator | Software Engineer</span>
 
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/rocket.png"/> Passionate about building smart, scalable, and user-friendly digital solutions.  
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/graduation-cap.png"/> 4th year HBO-ICT student at Windesheim  
