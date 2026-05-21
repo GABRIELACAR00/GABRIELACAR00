@@ -4,7 +4,7 @@
 
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/rocket.png"/> Passionate about building smart, scalable, and user-friendly digital solutions.  
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/graduation-cap.png"/> 4th year HBO-ICT student at Windesheim  
-<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/marker.png"/> Based in Almere, The Netherlands  
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/marker.png"/> Based in The Netherlands  
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/lightning-bolt.png"/> Strong mix of networking, backend, frontend & software engineering
 
 
