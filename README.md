@@ -72,11 +72,10 @@ into complete digital experiences.
 
 
 ---
-# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/combo-chart.png"/> GitHub Stats
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/combo-chart.png"/> Recent Project: PokeyPet
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIELACAR00&show_icons=true&theme=tokyonight)
+# <img src="https://github.com/GABRIELACAR00/GABRIELACAR00/blob/main/40b71be1-0522-4831-b63e-46f264e913df.gif"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELACAR00&layout=compact&theme=tokyonight)
 
 
 ---
