@@ -73,15 +73,24 @@ into complete digital experiences.
 
 ---
 
-# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/combo-chart.png"/> Recent Project: PokeyPet 
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/project.png"/> Recent Project: PokeyPet
 
-<p align="center"> 
-  <img src="https://github.com/GABRIELACAR00/GABRIELACAR00/blob/main/40b71be1-0522-4831-b63e-46f264e913df.gif" width="250"/> 
-  &nbsp;&nbsp; 
-  <img src="https://github.com/GABRIELACAR00/GABRIELACAR00/blob/main/4871b2a1-b174-4a81-8cb0-a67dbcb922bb.gif" width="250"/> 
-  &nbsp;&nbsp; 
-  <img src="https://github.com/GABRIELACAR00/GABRIELACAR00/blob/main/fe17e049-1670-40ef-8b57-b73b2cc70d32.gif" width="250"/> 
+<br>
+
+<p align="center">
+  <img src="https://github.com/GABRIELACAR00/GABRIELACAR00/blob/main/40b71be1-0522-4831-b63e-46f264e913df.gif" width="250"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://github.com/GABRIELACAR00/GABRIELACAR00/blob/main/4871b2a1-b174-4a81-8cb0-a67dbcb922bb.gif" width="250"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://github.com/GABRIELACAR00/GABRIELACAR00/blob/main/fe17e049-1670-40ef-8b57-b73b2cc70d32.gif" width="250"/>
 </p>
+
+<br>
+
 
 ---
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/goal.png"/> Current Focus
