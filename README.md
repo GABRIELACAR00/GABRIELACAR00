@@ -1,15 +1,15 @@
-# 👋 Hey, I'm Gabriël Acar
+# <img src="https://img.icons8.com/fluency-systems-filled/28/A47DAB/guest-male.png"/> Hey, I'm Gabriël Acar
 
-### 💻 ICT Specialist | Network Administrator | Software Engineer
+### <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/source-code.png"/> ICT Specialist | Network Administrator | Software Engineer
 
-🚀 Passionate about building smart, scalable, and user-friendly digital solutions.  
-🎓 4th year HBO-ICT student at Windesheim  
-📍 Based in Almere, The Netherlands  
-⚡ Strong mix of networking, backend, frontend & software engineering
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/rocket.png"/> Passionate about building smart, scalable, and user-friendly digital solutions.  
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/graduation-cap.png"/> 4th year HBO-ICT student at Windesheim  
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/marker.png"/> Based in Almere, The Netherlands  
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/lightning-bolt.png"/> Strong mix of networking, backend, frontend & software engineering
 
 ---
 
-## 🧠 About Me
+## <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/artificial-intelligence.png"/> About Me
 
 I'm Gabriël Acar, a 25-year-old ICT specialist with a strong passion for technology, problem-solving, and innovation.
 
@@ -25,17 +25,17 @@ Currently, I'm completing my HBO-ICT degree at Windesheim, where I expanded my e
 
 I enjoy combining:
 
-🎨 Creative design  
-⚙️ Technical engineering  
-📈 Functional problem solving  
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/design.png"/> Creative design  
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/settings.png"/> Technical engineering  
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/combo-chart.png"/> Functional problem solving  
 
 into complete digital experiences.
 
 ---
 
-# 🚀 Tech Stack
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/developer.png"/> Tech Stack
 
-## 👨‍💻 Languages & Frameworks
+## <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/code.png"/> Languages & Frameworks
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,7 +47,7 @@ into complete digital experiences.
 
 ---
 
-## 🛠️ Skills
+## <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/maintenance.png"/> Skills
 
 ✅ Problem-solving & goal-oriented work  
 ✅ Customer-focused mindset  
@@ -60,7 +60,7 @@ into complete digital experiences.
 
 ---
 
-# 🌍 Languages
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/language.png"/> Languages
 
 | Language | Level |
 |---|---|
@@ -72,7 +72,7 @@ into complete digital experiences.
 
 ---
 
-# 📊 GitHub Stats
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/combo-chart.png"/> GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIELACAR00&show_icons=true&theme=tokyonight)
 
@@ -80,25 +80,26 @@ into complete digital experiences.
 
 ---
 
-# 🎯 Current Focus
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/goal.png"/> Current Focus
 
-- 🌱 Improving my software engineering skills
-- 🔐 Networking & cybersecurity
-- ⚡ Building modern web applications
-- 🎨 Creating clean UI/UX experiences
-- ☁️ Learning more about cloud technologies
-
----
-
-# 🤝 Let's Connect
-
-📫 Feel free to connect, collaborate, or reach out!
-
-- LinkedIn: *www.linkedin.com/in/gabriel-acar*
-- Email: *gabriel.acar.00@outlook.com*
+- Improving my software engineering skills
+- Networking & cybersecurity
+- Building modern web applications
+- Creating clean UI/UX experiences
+- Learning more about cloud technologies
 
 ---
 
-# ⚡ Fun Fact
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/handshake.png"/> Let's Connect
 
-I love combining technical precision with creative design to build solutions that are not only functional — but also visually impressive 🚀
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/linkedin.png"/> LinkedIn:  
+www.linkedin.com/in/gabriel-acar
+
+<img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/new-post.png"/> Email:  
+gabriel.acar.00@outlook.com
+
+---
+
+# <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/light-on.png"/> Fun Fact
+
+I love combining technical precision with creative design to build solutions that are not only functional — but also visually impressive.
