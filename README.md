@@ -7,6 +7,7 @@
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/marker.png"/> Based in Almere, The Netherlands  
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/lightning-bolt.png"/> Strong mix of networking, backend, frontend & software engineering
 
+
 ---
 ## <img src="https://img.icons8.com/fluency-systems-filled/28/A47DAB/guest-male.png"/> About Me
 
@@ -30,6 +31,7 @@ I enjoy combining:
 
 into complete digital experiences.
 
+
 ---
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/developer.png"/> Tech Stack
 
@@ -43,6 +45,7 @@ into complete digital experiences.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
 ---
 ## <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/maintenance.png"/> Skills
 
@@ -55,6 +58,7 @@ into complete digital experiences.
 ✅ Strong communication skills  
 ✅ Positive & enthusiastic collaborator
 
+
 ---
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/language.png"/> Languages
 
@@ -66,12 +70,14 @@ into complete digital experiences.
 | 🇹🇷 Turkish | Beginner |
 | 🇰🇷 Korean | Beginner |
 
+
 ---
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/combo-chart.png"/> GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIELACAR00&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELACAR00&layout=compact&theme=tokyonight)
+
 
 ---
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/goal.png"/> Current Focus
@@ -82,6 +88,7 @@ into complete digital experiences.
 - Creating clean UI/UX experiences
 - Learning more about cloud technologies
 
+
 ---
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/handshake.png"/> Let's Connect
 
@@ -90,6 +97,7 @@ www.linkedin.com/in/gabriel-acar
 
 <img src="https://img.icons8.com/fluency-systems-filled/18/A47DAB/new-post.png"/> Email:  
 gabriel.acar.00@outlook.com
+
 
 ---
 # <img src="https://img.icons8.com/fluency-systems-filled/22/A47DAB/light-on.png"/> Fun Fact
